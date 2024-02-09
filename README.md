@@ -16,7 +16,9 @@ I maintain a personal project which revolves around British Birds of Prey. This 
 ## Employment
 
 ### Financial Times
-_Engineer (Internal Products), April 2020 - present_
+_Senior Engineer (Internal Products), March 2023 - present_
+
+_Engineer (Internal Products), April 2020 - February 2023_
 
 _Junior Engineer (Internal Products), October 2018 - March 2020_
 
